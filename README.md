@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
+<h1 align="center">Hi there, I'm <a href="https://antalkon.ru/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">I am studying Backend development and plan to specialize in it. There are also basic concepts about frontend and sometimes I do Full stack projects. I am a student from Russia 🇷🇺</h3>
 <!--
 **antalkon/antalkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
