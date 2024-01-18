@@ -70,13 +70,47 @@
         <li>Premiere pro</li>
         <li>After Effect</li>
         <li>Photoshop</li>
-        <li>Blender</li>
+    <li>Blender</li>
         <p><em>To use the IDE code: Vs, WebStorm, Ide for Android studio</em></p>
         </ul>
     </li>
     </ul></div>
 </div>
 <br>
+<div>
+    <h2>🎓| My</h2>
+    <table style="width: 796px;">
+<tbody>
+<tr style="height: 13px;">
+<td style="width: 372.75px; text-align: center; height: 13px;"><strong>DATE</strong></td>
+<td style="width: 427.25px; text-align: center; height: 13px;"><strong>COURSE</strong></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 372.75px; height: 26px;">September 2020 &ndash; May 2021</td>
+<td style="width: 427.25px; height: 26px;">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">September 2021 &ndash; May 2022</td>
+<td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start 1 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">September 2022 &ndash; May 2023</td>
+<td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">September 2023  &ndash; XX.XX.2024</td>
+<td style="width: 427.25px; height: 13px;">Mobile android dev (Code of the Future, Tomsk State University)</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">October 2023 &ndash; XX.XX.2024</td>
+<td style="width: 427.25px; height: 13px;">Frontend dev course (International School of Mathematics and Programming Algorrhythmics)</td>
+</tr>
+
+</tbody>
+
+</table>
+<p>These are just the basic courses I studied at.</p>
+</div>
 <div>
     <h2>🎓| I took the courses</h2>
     <table style="width: 796px;">
@@ -96,11 +130,30 @@
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2022 &ndash; May 2023</td>
 <td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">September 2023  &ndash; XX.XX.2024</td>
+<td style="width: 427.25px; height: 13px;">Mobile android dev (Code of the Future, Tomsk State University)</td>
 </tr>
 <tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">&nbsp;</td>
-<td style="width: 427.25px; height: 13px;">&nbsp;</td>
+<td style="width: 372.75px; height: 13px;">October 2023 &ndash; XX.XX.2024</td>
+<td style="width: 427.25px; height: 13px;">Frontend dev course (International School of Mathematics and Programming Algorrhythmics)</td>
 </tr>
+
 </tbody>
+
 </table>
+<p>These are just the basic courses I studied at.</p>
+</div>
+<div>
+    <h2>🐕| My pet-project</h2>
+    <table style="width: 796px;">
+    <ul>
+    <li>Zentas Education CMS
+        <ul>
+        <li>Updating the website of the Duplex school</li>
+        </ul>
+    </li>
+
+<p>This is all that I can call my full-fledged pet projects so far, you can find other projects in the github)</p>
 </div>
