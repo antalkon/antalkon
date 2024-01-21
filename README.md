@@ -48,7 +48,8 @@
     <li>JavaScript (Node js)
         <ul>
         <li>Express</li>
-        <li>MongoDB</li>
+        <li>http</li>
+        <li>fs, path</li>
         </ul>
     </li>
     <li>Web development
