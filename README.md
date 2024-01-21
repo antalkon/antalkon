@@ -157,12 +157,14 @@
     <br>
     <br>
     <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
+    <p>Времени нет...</p>
 </h2>
 <h2 align="center">
     <a href="#">LeetCode</a>
     <br>
     <br>
     <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark"></img>
+    <p>Вторую неделю собираюсь хоть что-то поршеать =_</p>
 </h2>
 <h2 align="center">
     <a >Top langs</a>
