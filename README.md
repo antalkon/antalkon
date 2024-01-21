@@ -162,12 +162,14 @@
     <br>
     <br>
     <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
+    <P>Лень...</P>
 </h2>
 <h2 align="center">
     <a href="#">LeetCode</a>
     <br>
     <br>
     <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark"></img>
+    <p>Вот с понедельника честно порешаю</p>
 </h2>
 <h2 align="center">
     <a >Top langs</a>
