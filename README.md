@@ -97,6 +97,10 @@
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2022 &ndash; May 2023</td>
 <td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">September 2023 &ndash; Desember 2023</td>
+<td style="width: 427.25px; height: 13px;">CS50 | edX platform OFFLINE&nbsp;(Harvard University)</td>
 
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2023  &ndash; XX.XX.2024</td>
@@ -157,14 +161,12 @@
     <br>
     <br>
     <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
-    <p>Времени нет...</p>
 </h2>
 <h2 align="center">
     <a href="#">LeetCode</a>
     <br>
     <br>
     <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark"></img>
-    <p>Вторую неделю собираюсь хоть что-то поршеать =_</p>
 </h2>
 <h2 align="center">
     <a >Top langs</a>
