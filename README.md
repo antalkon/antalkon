@@ -162,7 +162,7 @@
     <br>
     <br>
     <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
-    <P>Лень...</P>
+    <P>Сомнительно... ну окей...</P>
 </h2>
 <h2 align="center">
     <a href="#">LeetCode</a>
