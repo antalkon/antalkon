@@ -121,6 +121,52 @@
         <li>Updating the website of the Duplex school</li>
         </ul>
     </li>
-
 <p>This is all that I can call my full-fledged pet projects so far, you can find other projects in the github)</p>
 </div>
+<br>
+<div>
+    <h2><a href="https://antalkon.ru/" style="color: ">Website - portfolio</a></h2>
+    <ul>
+        <li>
+            <a href="#">Projects</a>
+        </li>
+        <li>
+            <a href="#">Awards</a>
+        </li>
+        <li>
+            <a href="#">Events</a>
+        </li>
+        <li>
+            <a href="#">Abaut me</a>
+        </li>
+        <li>
+            <a href="#">Resume</a>
+        </li>
+        <li>
+            <a href="#">Contacts</a>
+        </li>
+        <li>
+            <a href="#">Other</a>
+        </li>
+    </ul>
+</div>
+<br>
+<h1 align="center">Stats</h1>
+<h2 align="center">
+    <a href="#">CodeWars</a>
+    <br>
+    <br>
+    <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
+</h2>
+<h2 align="center">
+    <a href="#">LeetCode</a>
+    <br>
+    <br>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark"></img>
+</h2>
+<h2 align="center">
+    <a >Top langs</a>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalkon"></img>
+</h2>
