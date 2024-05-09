@@ -45,19 +45,24 @@
         <li>kotlin</li>
         </ul>
     </li>
-    <li>JavaScript (Node js)
+    <li>Backend dev
         <ul>
+        <li>Rest-api</li>
+        <li>SQL (postgre, MySQl)</li>
+        <li>Docker</li>
+        <li>Node</li>
         <li>Express</li>
         <li>http</li>
         <li>fs, path</li>
         </ul>
     </li>
-    <li>Web development
+    <li>Frontend dev
         <ul>
         <li>HTML5, HTMLX</li>
         <li>CSS</li>
         <li>BOOSTRAP 5</li>
         <li>React</li>
+        <li>Tai;vind css</li>
         </ul>
     </li>
     <li>Misc
@@ -89,15 +94,15 @@
 </tr>
 <tr style="height: 26px;">
 <td style="width: 372.75px; height: 26px;">September 2020 &ndash; May 2021</td>
-<td style="width: 427.25px; height: 26px;"><a href="#">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
+<td style="width: 427.25px; height: 26px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algoritmika_gameDesign.jpg">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
 </tr>
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2021 &ndash; May 2022</td>
-<td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start 1 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg">Python dev course &ldquo;Python Start 1 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
 </tr>
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2022 &ndash; May 2023</td>
-<td style="width: 427.25px; height: 13px;">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
 </tr>
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2023 &ndash; Desember 2023</td>
@@ -105,11 +110,16 @@
 
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2023  &ndash; XX.XX.2024</td>
-<td style="width: 427.25px; height: 13px;">Mobile android dev (Code of the Future, Tomsk State University)</td>
+<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf">Mobile android dev (Code of the Future, Tomsk State University)</a></td>
 </tr>
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">October 2023 &ndash; XX.XX.2024</td>
 <td style="width: 427.25px; height: 13px;">Frontend dev course (International School of Mathematics and Programming Algorrhythmics)</td>
+</tr>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 372.75px; height: 13px;">XX.XX.XXXX &ndash; XX.XX.XXXX</td>
+<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/tree/main/courses">Other courses</a></td>
 </tr>
 
 </tbody>
