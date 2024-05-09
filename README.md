@@ -89,7 +89,7 @@
 </tr>
 <tr style="height: 26px;">
 <td style="width: 372.75px; height: 26px;">September 2020 &ndash; May 2021</td>
-<td style="width: 427.25px; height: 26px;">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</td>
+<td style="width: 427.25px; height: 26px;"><a href="#">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
 </tr>
 <tr style="height: 13px;">
 <td style="width: 372.75px; height: 13px;">September 2021 &ndash; May 2022</td>
