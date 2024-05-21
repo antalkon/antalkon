@@ -61,14 +61,13 @@
         <li>HTML5, HTMLX</li>
         <li>CSS</li>
         <li>BOOSTRAP 5</li>
-        <li>React</li>
-        <li>Tai;vind css</li>
+
         </ul>
     </li>
     <li>Misc
         <ul>
-        <li>Git, Mercurial</li>
-        <li>GNU/Linux Administration, Bash</li>
+        <li>Git</li>
+        <li>Bash</li>
         </ul>
     </li>
     <li>Other soft skills
