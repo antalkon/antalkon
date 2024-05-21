@@ -61,7 +61,6 @@
         <li>HTML5, HTMLX</li>
         <li>CSS</li>
         <li>BOOSTRAP 5</li>
-
         </ul>
     </li>
     <li>Misc
