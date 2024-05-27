@@ -35,7 +35,7 @@
     <ul>
     <li>Python
         <ul>
-        <li>Falsk</li>
+        <li>Flask</li>
         <li>Pygame</li>
         </ul>
     </li>
