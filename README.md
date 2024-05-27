@@ -53,6 +53,8 @@
         <li>Node</li>
         <li>Express</li>
         <li>http</li>
+        <li>Gin</li>
+        <li>Slog</li>
         <li>fs, path</li>
         </ul>
     </li>
