@@ -16,7 +16,7 @@
     <h2 style="text-align: left;">
     🧑&zwj;💻| About me:
     </h2>
-    <p style="padding-left: 30px;">Hi, my name is Alexey. I'm 14 years old and I'm in school. I've been in IT since I was 10-11 years old, I like writing code and working on a computer.</p>
+    <p style="padding-left: 30px;">Hi, my name is Alexey. I'm 15 years old and I'm in school. I've been in IT since I was 10-11 years old, I like writing code and working on a computer.</p>
     <div>
     <h2 style="text-align: left;">
     ❓| What am I doing?
