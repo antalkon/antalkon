@@ -23,9 +23,15 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 - Automating workflows and deployments
 
 ## 💪 My Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgresql,mysql,redis,python,git,linux,bash,github,vscode&theme=dark" alt="Skills Icons"/>
+</div>
+
 ### Backend Development
 - **Go (Golang)**: Gin, Echo, Slog
 - **Python**: Flask, FastAPI
+- **Java**: Spring Boot
 - **API Development**: REST APIs, gRPC, GraphQL
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Containers & Orchestration**: Docker, Docker Compose, Kubernetes
@@ -44,10 +50,8 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 - **Virtualization**: Vagrant, VirtualBox
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 
-### Other Skills
-- **Soft Skills**: Project Management, Team Collaboration
-- **Communication Tools**: Slack, Discord, Microsoft Teams
-- **AI Tools**: ChatGPT for automating repetitive coding tasks and enhancing productivity
+### AI Tools
+- **ChatGPT**: Automating repetitive coding tasks and enhancing productivity
 
 ## 🎓 Courses & Certifications
 | Date                        | Course                                                                 |
@@ -85,6 +89,14 @@ Visit my [website](https://antalkon.ru/) to explore:
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antalkon&theme=dark" alt="GitHub Streak"/>
+</p>
+
+### 🕹️ Fun Widgets
+<p align="center">
+  <img src="https://github.com/antalkon/antalkon/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=antalkon&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ## 🏆 Coding Platforms
