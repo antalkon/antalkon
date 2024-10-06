@@ -1,189 +1,106 @@
-<p align="center" ><img src="https://i.postimg.cc/prj0Gzpw/image-1.png" alt="" width="120" height="120" /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=antalkon&style=flat-square&color=blue" alt=""/></p>
+<p align="center"><img src="https://i.postimg.cc/prj0Gzpw/image-1.png" alt="" width="120" height="120" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=antalkon&style=flat-square&color=blue" alt="Profile Views"/></p>
 
 <h1 align="center">
   Hi there, I'm 
-  <a href="https://antalkon.ru/" target="_blank">Alex</a> 
+  <a href="https://antalkon.ru/" target="_blank">Alexey</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=17&pause=1000&random=false&width=435&lines=I+am+a+computer+science+student+from+Russia" alt="Typing SVG" /
-  ></p>
-    
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=17&pause=1000&width=435&lines=Backend+Developer+with+a+focus+on+Go;Passionate+about+IT+and+System+Development" alt="Typing SVG"/>
+</p>
 
+## 🧑‍💻 About Me
+Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and other technologies used in modern IT companies. I have been coding since I was 10 and have developed various skills in backend development, system administration, and automation.
 
-<div>
-    <h2 style="text-align: left;">
-    🧑&zwj;💻| About me:
-    </h2>
-    <p style="padding-left: 30px;">Hi, my name is Alexey. I'm 15 years old and I'm in school. I've been in IT since I was 10-11 years old, I like writing code and working on a computer.</p>
-    <div>
-    <h2 style="text-align: left;">
-    ❓| What am I doing?
-    </h2>
-    <ul>
-    <li>Website development</li>
-    <li>Software maintenance development</li>
-    <li>Automation system</li>
-    <li>Website administration</li>
-    <li>System administration</li>
-    </ul>
-    <p><em>But most of all, I love the work related to backend development, and I plan to become one.</em></p>
-    <h2 style="text-align: left;">
-    💪| My Skills
-    </h2>
-    <ul>
-    <li>Python
-        <ul>
-        <li>Flask</li>
-        <li>Pygame</li>
-        </ul>
-    </li>
-    <li>Java
-        <ul>
-        <li>android dev api</li>
-        <li>kotlin</li>
-        </ul>
-    </li>
-    <li>Backend dev
-        <ul>
-        <li>Rest-api</li>
-        <li>SQL (postgre, MySQl)</li>
-        <li>Docker</li>
-        <li>Node</li>
-        <li>Express</li>
-        <li>http</li>
-        <li>Gin</li>
-        <li>Slog</li>
-        <li>fs, path</li>
-        </ul>
-    </li>
-    <li>Frontend dev
-        <ul>
-        <li>HTML5, HTMLX</li>
-        <li>CSS</li>
-        <li>BOOSTRAP 5</li>
-        </ul>
-    </li>
-    <li>Misc
-        <ul>
-        <li>Git</li>
-        <li>Bash</li>
-        </ul>
-    </li>
-    <li>Other soft skills
-        <ul>
-        <li>Premiere pro</li>
-        <li>After Effect</li>
-        <li>Photoshop</li>
-    <li>Blender</li>
-        <p><em>To use the IDE code: Vs, WebStorm, Ide for Android studio</em></p>
-        </ul>
-    </li>
-    </ul></div>
-</div>
-<br>
+## ❓ What Am I Doing?
+- Building **backend systems** with Go (Golang)
+- Designing and implementing **REST APIs**
+- Working with **SQL databases** (PostgreSQL, MySQL)
+- Containerizing applications using **Docker**
+- Collaborating in agile environments using tools like **Trello** and **Yandex Tracker**
+- Automating workflows and deployments
 
-<div>
-    <h2>🎓| I took the courses</h2>
-    <table style="width: 796px;">
-<tbody>
-<tr style="height: 13px;">
-<td style="width: 372.75px; text-align: center; height: 13px;"><strong>DATE</strong></td>
-<td style="width: 427.25px; text-align: center; height: 13px;"><strong>COURSE</strong></td>
-</tr>
-<tr style="height: 26px;">
-<td style="width: 372.75px; height: 26px;">September 2020 &ndash; May 2021</td>
-<td style="width: 427.25px; height: 26px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algoritmika_gameDesign.jpg">Game Dev course &ldquo;Game Design" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
-</tr>
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">September 2021 &ndash; May 2022</td>
-<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg">Python dev course &ldquo;Python Start 1 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
-</tr>
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">September 2022 &ndash; May 2023</td>
-<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg">Python dev course &ldquo;Python Start&nbsp;2 - year" (International School of Programming and Mathematics &ldquo;Algorithmics")</a></td>
-</tr>
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">September 2023 &ndash; Desember 2023</td>
-<td style="width: 427.25px; height: 13px;">CS50 | edX platform OFFLINE&nbsp;(Harvard University)</td>
+## 💪 My Skills
+### Backend Development
+- **Go (Golang)**: Gin, Echo, Slog
+- **Python**: Flask, FastAPI
+- **API Development**: REST APIs, gRPC, GraphQL
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes
+- **Message Brokers**: RabbitMQ, Kafka
+- **Caching**: Redis, Memcached
+- **Microservices Architecture**: Building and maintaining distributed systems
+- **Testing & Debugging**: Unit testing, integration testing, logging (Zap, Logrus)
 
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">September 2023  &ndash; XX.XX.2024</td>
-<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf">Mobile android dev (Code of the Future, Tomsk State University)</a></td>
-</tr>
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">October 2023 &ndash; XX.XX.2024</td>
-<td style="width: 427.25px; height: 13px;">Frontend dev course (International School of Mathematics and Programming Algorrhythmics)</td>
-</tr>
-</tr>
-<tr style="height: 13px;">
-<td style="width: 372.75px; height: 13px;">XX.XX.XXXX &ndash; XX.XX.XXXX</td>
-<td style="width: 427.25px; height: 13px;"><a href="https://github.com/antalkon/antalkon/tree/main/courses">Other courses</a></td>
-</tr>
+### DevOps & Tools
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions, Jenkins
+- **Containerization**: Docker
+- **Cloud Platforms**: Yandex Cloud, AWS (EC2, S3), Google Cloud
+- **Task Management**: Trello, Yandex Tracker
+- **Automation & Scripting**: Bash, Shell
+- **Virtualization**: Vagrant, VirtualBox
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 
-</tbody>
+### Other Skills
+- **Soft Skills**: Project Management, Team Collaboration
+- **Communication Tools**: Slack, Discord, Microsoft Teams
+- **AI Tools**: ChatGPT for automating repetitive coding tasks and enhancing productivity
 
-</table>
-<p>These are just the basic courses I studied at.</p>
-</div>
-<div>
-    <h2>🐕| My pet-project</h2>
-    <table style="width: 796px;">
-    <ul>
-    <li>Zentas Education CMS
-        <ul>
-        <li>Updating the website of the Duplex school</li>
-        </ul>
-    </li>
-<p>This is all that I can call my full-fledged pet projects so far, you can find other projects in the github)</p>
-</div>
-<br>
-<div>
-    <h2><a href="https://antalkon.ru/" style="color: ">Website - portfolio</a></h2>
-    <ul>
-        <li>
-            <a href="#">Projects</a>
-        </li>
-        <li>
-            <a href="#">Awards</a>
-        </li>
-        <li>
-            <a href="#">Events</a>
-        </li>
-        <li>
-            <a href="#">Abaut me</a>
-        </li>
-        <li>
-            <a href="#">Resume</a>
-        </li>
-        <li>
-            <a href="#">Contacts</a>
-        </li>
-        <li>
-            <a href="#">Other</a>
-        </li>
-    </ul>
-</div>
-<br>
-<h1 align="center">Stats</h1>
-<h2 align="center">
-    <a href="#">CodeWars</a>
-    <br>
-    <br>
-    <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large"></img>
-    <P>Сомнительно... ну окей...</P>
-</h2>
-<h2 align="center">
-    <a href="#">LeetCode</a>
-    <br>
-    <br>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark"></img>
-    <p>Вот с понедельника честно порешаю</p>
-</h2>
-<h2 align="center">
-    <a >Top langs</a>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalkon"></img>
-</h2>
+## 🎓 Courses & Certifications
+| Date                        | Course                                                                 |
+|-----------------------------|------------------------------------------------------------------------|
+| September 2020 – May 2021   | [Game Dev: Game Design (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algoritmika_gameDesign.jpg) |
+| September 2021 – May 2022   | [Python Start 1 - year (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg) |
+| September 2022 – May 2023   | [Python Start 2 - year (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg) |
+| September 2023 – December 2023 | CS50 | edX platform OFFLINE (Harvard University)                    |
+| September 2023 – XX.XX.2024 | [Mobile Android Dev (TSU)](https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf) |
+| October 2023 – XX.XX.2024   | Frontend Dev Course (Algorithmics)                                    |
+| XX.XX.XXXX – XX.XX.XXXX     | [Other Courses](https://github.com/antalkon/antalkon/tree/main/courses) |
+
+## 🐕 Pet Projects
+- **Zentas Education CMS**: Updating the website of the Duplex school
+- **Automated Deployment Pipeline**: A custom CI/CD pipeline using Docker and GitHub Actions
+- **Microservice Architecture**: Developed a set of microservices for an e-commerce platform using Go
+
+> Check out my other projects on [GitHub](https://github.com/antalkon)!
+
+## 🌐 Website & Portfolio
+Visit my [website](https://antalkon.ru/) to explore:
+- [Projects](https://antalkon.ru/projects)
+- [Awards](https://antalkon.ru/awards)
+- [Events](https://antalkon.ru/events)
+- [About Me](https://antalkon.ru/about)
+- [Resume](https://antalkon.ru/resume)
+- [Contacts](https://antalkon.ru/contact)
+
+## 📊 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalkon&layout=compact&theme=dark" alt="Top Langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antalkon&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antalkon&theme=dark" alt="GitHub Streak"/>
+</p>
+
+## 🏆 Coding Platforms
+### CodeWars
+<p align="center">
+  <a href="https://www.codewars.com/users/AlexBrosHHH">
+    <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large" alt="CodeWars Badge"/>
+  </a>
+</p>
+
+### LeetCode
+<p align="center">
+  <a href="https://leetcode.com/antalkon789">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+## 📫 Get in Touch
+Feel free to reach out to me via [email](mailto:alex@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alexey/).
