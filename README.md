@@ -65,7 +65,7 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 | XX.XX.XXXX – XX.XX.XXXX     | [Other Courses](https://github.com/antalkon/antalkon/tree/main/courses) |
 
 ## 🐕 Pet Projects
-- **Zentas Education CMS**: Updating the website of the Duplex school
+- **Zentas Informatics Class**: Development of a universal system for PC management and automation of information rooms in schools and universities
 - **Automated Deployment Pipeline**: A custom CI/CD pipeline using Docker and GitHub Actions
 - **Microservice Architecture**: Developed a set of microservices for an e-commerce platform using Go
 
