@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/prj0Gzpw/image-1.png" alt="" width="120" height="120" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/antalkon/antalkon/refs/heads/main/fotor-20250103182152.png" alt="" width="120" height="120" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=antalkon&style=flat-square&color=blue" alt="Profile Views"/></p>
 
 <h1 align="center">
