@@ -28,27 +28,7 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=go,docker,kafka,kubernetes,postgresql,mysql,redis,python,git,linux,bash,github,vscode&theme=dark" alt="Skills Icons"/>
 </div> -->
-<img alt="Alt text" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Yandex%20Cloud-5282FF.svg?style=for-the-badge&logo=Yandex-Cloud&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
-
-<img alt="Alt text" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white"/>
-<img alt="Alt text" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Yandex%20Cloud-5282FF.svg?style=for-the-badge&logo=Yandex-Cloud&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white"/><img alt="Alt text" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
 
 ### Backend Development
 - **Go (Golang)**: Gin, Echo, Slog, Zap, Gorm
