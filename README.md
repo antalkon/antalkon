@@ -15,40 +15,59 @@
 Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and other technologies used in modern IT companies. I have been coding since I was 10 and have developed various skills in backend development, system administration, and automation.
 
 ## ❓ What Am I Doing?
-- Building **backend systems** with Go (Golang)
-- Designing and implementing **REST APIs**
-- Working with **SQL databases** (PostgreSQL, MySQL)
-- Containerizing applications using **Docker**
-- Collaborating in agile environments using tools like **Trello** and **Yandex Tracker**
-- Automating workflows and deployments
+
+- **Backend Development**: Building scalable and high-performance backend systems using **Go (Golang)**.
+- **API Design**: Designing and implementing robust **REST APIs** and **gRPC services** to enable efficient communication.
+- **Database Management**: Developing and optimizing data structures with **PostgreSQL** and **MySQL**.
+- **Containerization**: Streamlining deployment and ensuring consistency with **Docker**.
+- **Agile Collaboration**: Participating in agile workflows and managing tasks using tools like **Trello** and **Yandex Tracker**.
+- **Automation & CI/CD**: Automating processes and creating reliable deployment pipelines to improve efficiency.
 
 ## 💪 My Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgresql,mysql,redis,python,git,linux,bash,github,vscode&theme=dark" alt="Skills Icons"/>
-</div>
+<!-- <div align="center">
+  <img src="https://skillicons.dev/icons?i=go,docker,kafka,kubernetes,postgresql,mysql,redis,python,git,linux,bash,github,vscode&theme=dark" alt="Skills Icons"/>
+</div> -->
+<img alt="Alt text" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Yandex%20Cloud-5282FF.svg?style=for-the-badge&logo=Yandex-Cloud&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
+
+<img alt="Alt text" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
 
 ### Backend Development
-- **Go (Golang)**: Gin, Echo, Slog
-- **Python**: Flask, FastAPI
-- **Java**: Spring Boot
-- **API Development**: REST APIs, gRPC, GraphQL
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Go (Golang)**: Gin, Echo, Slog, Zap, Gorm
+- **API Development**: REST APIs, gRPC
+- **Databases**: PostgreSQL
 - **Containers & Orchestration**: Docker, Docker Compose, Kubernetes
-- **Message Brokers**: RabbitMQ, Kafka
-- **Caching**: Redis, Memcached
+- **Message Brokers**: Kafka
+- **Caching**: Redis
 - **Microservices Architecture**: Building and maintaining distributed systems
 - **Testing & Debugging**: Unit testing, integration testing, logging (Zap, Logrus)
 
 ### DevOps & Tools
 - **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Jenkins
+- **CI/CD**: GitHub Actions
 - **Containerization**: Docker
-- **Cloud Platforms**: Yandex Cloud, AWS (EC2, S3), Google Cloud
+- **Cloud Platforms**: AWS (S3)
 - **Task Management**: Trello, Yandex Tracker
-- **Automation & Scripting**: Bash, Shell
-- **Virtualization**: Vagrant, VirtualBox
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Automation & Scripting**: Bash
+- **Monitoring & Logging**: Prometheus, Grafana
 
 ### AI Tools
 - **ChatGPT**: Automating repetitive coding tasks and enhancing productivity
@@ -59,10 +78,14 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 | September 2020 – May 2021   | [Game Dev: Game Design (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algoritmika_gameDesign.jpg) |
 | September 2021 – May 2022   | [Python Start 1 - year (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg) |
 | September 2022 – May 2023   | [Python Start 2 - year (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg) |
-| September 2023 – December 2023 | CS50 | edX platform OFFLINE (Harvard University)                    |
-| September 2023 – XX.XX.2024 | [Mobile Android Dev (TSU)](https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf) |
-| October 2023 – XX.XX.2024   | Frontend Dev Course (Algorithmics)                                    |
+| September 2023 – December 2023 | CS50 (edX) | edX platform OFFLINE (Harvard University)                    |
+| September 2023 – 30.05.2024 | [Mobile Android Dev (TSU)](https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf) |
+| October 2023 – May 2024   | Frontend Dev Course (Algorithmics)                                    |
+| October 2024 – December 2025  | [Go Specialization (Yandex Lyceum)](https://github.com/antalkon/antalkon/blob/main/yal-spec-go.pdf)     
+| October 2024 – XX.XX.2025  | Go 1-year course (Yandex Lyceum)      
 | XX.XX.XXXX – XX.XX.XXXX     | [Other Courses](https://github.com/antalkon/antalkon/tree/main/courses) |
+
+<b>🏆 My awards - [click](https://github.com/antalkon/antalkon/tree/main/awards)</b>
 
 ## 🐕 Pet Projects
 - **Zentas Informatics Class**: Development of a universal system for PC management and automation of information rooms in schools and universities
@@ -72,13 +95,7 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 > Check out my other projects on [GitHub](https://github.com/antalkon)!
 
 ## 🌐 Website & Portfolio
-Visit my [website](https://antalkon.ru/) to explore:
-- [Projects](https://antalkon.ru/projects)
-- [Awards](https://antalkon.ru/awards)
-- [Events](https://antalkon.ru/events)
-- [About Me](https://antalkon.ru/about)
-- [Resume](https://antalkon.ru/resume)
-- [Contacts](https://antalkon.ru/contact)
+Visit my [website](https://antalkon.ru/) (https://antalkon.tu)
 
 ## 📊 Stats & Activity
 <p align="center">
@@ -91,13 +108,6 @@ Visit my [website](https://antalkon.ru/) to explore:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antalkon&theme=dark" alt="GitHub Streak"/>
 </p>
 
-### 🕹️ Fun Widgets
-<p align="center">
-  <img src="https://github.com/antalkon/antalkon/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=antalkon&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
 
 ## 🏆 Coding Platforms
 ### CodeWars
@@ -107,12 +117,3 @@ Visit my [website](https://antalkon.ru/) to explore:
   </a>
 </p>
 
-### LeetCode
-<p align="center">
-  <a href="https://leetcode.com/antalkon789">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=antalkon789&theme=dark" alt="LeetCode Stats"/>
-  </a>
-</p>
-
-## 📫 Get in Touch
-Feel free to reach out to me via [email](mailto:alex@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alexey/).
