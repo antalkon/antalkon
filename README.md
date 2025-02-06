@@ -77,17 +77,6 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 ## 🌐 Website & Portfolio
 Visit my [website](https://antalkon.ru/) (https://antalkon.tu)
 
-## 📊 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antalkon&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antalkon&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antalkon&theme=dark" alt="GitHub Streak"/>
-</p>
-
 
 ## 🏆 Coding Platforms
 ### CodeWars
