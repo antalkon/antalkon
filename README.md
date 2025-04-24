@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/antalkon/antalkon/refs/heads/main/avatar.jpeg" alt="Тут должен быть мой аватар." width="120" height="120" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/antalkon/antalkon/refs/heads/main/avatar.png" alt="Тут должен быть мой аватар." width="120" height="120" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=antalkon&style=flat-square&color=blue" alt="Profile Views"/></p>
 
 <h1 align="center">
