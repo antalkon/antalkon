@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/antalkon/antalkon/refs/heads/main/fotor-20250103182152.png" alt="" width="120" height="120" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/antalkon/antalkon/refs/heads/main/avatar.jpeg" alt="Тут должен быть мой аватар." width="120" height="120" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=antalkon&style=flat-square&color=blue" alt="Profile Views"/></p>
 
 <h1 align="center">
@@ -12,16 +12,7 @@
 </p>
 
 ## 🧑‍💻 About Me
-Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and other technologies used in modern IT companies. I have been coding since I was 10 and have developed various skills in backend development, system administration, and automation.
-
-## ❓ What Am I Doing?
-
-- **Backend Development**: Building scalable and high-performance backend systems using **Go (Golang)**.
-- **API Design**: Designing and implementing robust **REST APIs** and **gRPC services** to enable efficient communication.
-- **Database Management**: Developing and optimizing data structures with **PostgreSQL** and **MySQL**.
-- **Containerization**: Streamlining deployment and ensuring consistency with **Docker**.
-- **Agile Collaboration**: Participating in agile workflows and managing tasks using tools like **Trello** and **Yandex Tracker**.
-- **Automation & CI/CD**: Automating processes and creating reliable deployment pipelines to improve efficiency.
+I am a Go backend developer. I've been developing for the last 5 years, 2 of them in the Go language. I work on my own projects/startups, participate in Olympiads and hackathons, as well as other IT events. I'm finishing 9th grade.
 
 ## 💪 My Skills
 
@@ -73,10 +64,6 @@ Hi, my name is Alexey. I'm a backend developer with a keen interest in Go and ot
 - **Microservice Architecture**: Developed a set of microservices for an e-commerce platform using Go
 
 > Check out my other projects on [GitHub](https://github.com/antalkon)!
-
-## 🌐 Website & Portfolio
-Visit my [website](https://antalkon.ru/) (https://antalkon.tu)
-
 
 ## 🏆 Coding Platforms
 ### CodeWars
