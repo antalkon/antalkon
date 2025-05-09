@@ -68,7 +68,7 @@ I am a Go backend developer. I've been developing for the last 5 years, 2 of the
 ## 🏆 Coding Platforms
 ### CodeWars
 <p align="center">
-  <a href="https://www.codewars.com/users/AlexBrosHHH">
+  <a href="https://www.codewars.com/users/antalkon">
     <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large" alt="CodeWars Badge"/>
   </a>
 </p>
