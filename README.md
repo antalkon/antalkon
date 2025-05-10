@@ -37,29 +37,26 @@ I am a Go backend developer. I've been developing for the last 5 years, 2 of the
 <img alt="Alt text" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+<img alt="Alt text" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+
+### OS
+<img alt="Alt text" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
-### Backend Development
-- **Go (Golang)**: Gin, Echo, Slog, Zap, Gorm
-- **API Development**: REST APIs, gRPC
-- **Databases**: PostgreSQL
-- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes
-- **Message Brokers**: Kafka
-- **Caching**: Redis
-- **Microservices Architecture**: Building and maintaining distributed systems
-- **Testing & Debugging**: Unit testing, integration testing, logging (Zap, Logrus)
+### Other OR worked in the past
+<img alt="Alt text" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img alt="Alt text" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-### DevOps & Tools
-- **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions
-- **Containerization**: Docker
-- **Cloud Platforms**: AWS (S3)
-- **Task Management**: Trello, Yandex Tracker
-- **Automation & Scripting**: Bash
-- **Monitoring & Logging**: Prometheus, Grafana
-
-### AI Tools
-- **ChatGPT**: Automating repetitive coding tasks and enhancing productivity
 
 ## 🎓 Courses & Certifications
 | Date                        | Course                                                                 |
@@ -69,13 +66,20 @@ I am a Go backend developer. I've been developing for the last 5 years, 2 of the
 | September 2022 – May 2023   | [Python Start 2 - year (Algorithmics)](https://github.com/antalkon/antalkon/blob/main/courses/Algorimika_PythonDev.jpg) |
 | September 2023 – December 2023 | CS50 (edX) | edX platform OFFLINE (Harvard University)                    |
 | September 2023 – 30.05.2024 | [Mobile Android Dev (TSU)](https://github.com/antalkon/antalkon/blob/main/courses/M1_TGU_androidMobileDev.pdf) |
-| October 2023 – May 2024   | Frontend Dev Course (Algorithmics)                                    |
+| October 2023 – May 2024   | Frontend Dev Course (Algorithmics)  
+| October 2023 – April 2024  | Go 1-year course (Yandex Lyceum)                                        |
 | October 2024 – December 2025  | [Go Specialization (Yandex Lyceum)](https://github.com/antalkon/antalkon/blob/main/yal-spec-go.pdf)     
-| October 2024 – XX.XX.2025  | Go 1-year course (Yandex Lyceum)      
 | XX.XX.XXXX – XX.XX.XXXX     | [Other Courses](https://github.com/antalkon/antalkon/tree/main/courses) |
 
-<b>🏆 My awards - [click](https://github.com/antalkon/antalkon/tree/main/awards)</b>
+## 🏆 Awards & Events
+| Title                        | Status                                                                 |
+|-----------------------------|------------------------------------------------------------------------|
+| PROD'24-25 | Finalist
+| Zin Hack | 2nd place
+| All-Russian Open Source Project Competition | 2nd place
+| NPK Zic Project | First Place
 
+* The most significant and relatively recent awards are listed above. Many awards here
 ## 🐕 Pet Projects
 - **Zentas Informatics Class**: Development of a universal system for PC management and automation of information rooms in schools and universities
 - **Automated Deployment Pipeline**: A custom CI/CD pipeline using Docker and GitHub Actions
@@ -83,12 +87,5 @@ I am a Go backend developer. I've been developing for the last 5 years, 2 of the
 
 > Check out my other projects on [GitHub](https://github.com/antalkon)!
 
-## 🏆 Coding Platforms
-### CodeWars
-<p align="center">
-  <a href="https://www.codewars.com/users/antalkon">
-    <img src="https://www.codewars.com/users/AlexBrosHHH/badges/large" alt="CodeWars Badge"/>
-  </a>
-</p>
 
-ПРОД ПОБЕДА!
+
