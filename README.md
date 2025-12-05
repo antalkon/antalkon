@@ -12,7 +12,7 @@
 </p>
 
 ## 🧑‍💻 About Me
-I am a Go backend developer. I've been developing for the last 5 years, 2 of them in the Go language. I work on my own projects/startups, participate in Olympiads and hackathons, as well as other IT events. I'm finishing 9th grade.
+I am a Go backend developer. I've been developing for the last 5 years, 2 of them in the Go language. I work on my own projects/startups, participate in Olympiads and hackathons, as well as other IT events. I'm finishing 10th grade.
 
 ## 💪 My stacks
 
