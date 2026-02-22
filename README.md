@@ -106,6 +106,9 @@ I am a Go backend developer. I've been developing for the last 5 years, 2 of the
 |-----------------------------|------------------------------------------------------------------------|
 | PROD'24-25 | Finalist
 | Zin Hack | 2nd place
+| Большая разведка IT трек| 1nd place
+| PROD HACK'25-msk| 5nd place
+| Турнир "Решись!" центральный университет | 3nd place
 | All-Russian Open Source Project Competition | 2nd place
 | NPK Zic Project | First Place
 
